@@ -3,6 +3,8 @@
 使用mock API
 開啟前請執行
 
+npm run api
+
 ## Project setup
 ```
 npm install
