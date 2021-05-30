@@ -5,11 +5,11 @@ import Home from "../views/Home.vue";
 Vue.use(VueRouter);
 
 const routes = [{
-        path: "/",
+        path: "",
         name: "Home",
         component: Home,
         children: [{
-            path: "billing",
+            path: "/",
             name: "Billing",
             component: () =>
                 import ("@/views/Billing.vue"),
