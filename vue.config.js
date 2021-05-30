@@ -12,7 +12,7 @@ module.exports = {
     assetsDir: 'assets',
     chainWebpack: (config) => {
         config.plugin('html').tap((args) => {
-            args[0].title = '商家資料庫';
+            args[0].title = '緯創';
             return args;
         });
 
