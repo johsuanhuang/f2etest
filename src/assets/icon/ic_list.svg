@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6px" height="10px" viewBox="0 0 6 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>@ic/12/ic_list</title>
+    <g id="專案管理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="assets_pmp" transform="translate(-504.000000, -317.000000)" fill="#373E52">
+            <g id="Group" transform="translate(501.000000, 316.000000)">
+                <g id="Group-5" transform="translate(3.000000, 1.000000)">
+                    <circle id="Oval" cx="1" cy="1" r="1"></circle>
+                    <circle id="Oval-Copy-3" cx="5" cy="1" r="1"></circle>
+                    <circle id="Oval-Copy" cx="1" cy="5" r="1"></circle>
+                    <circle id="Oval-Copy-4" cx="5" cy="5" r="1"></circle>
+                    <circle id="Oval-Copy-2" cx="1" cy="9" r="1"></circle>
+                    <circle id="Oval-Copy-5" cx="5" cy="9" r="1"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

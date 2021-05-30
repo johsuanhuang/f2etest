@@ -1,0 +1,38 @@
+.hasSuffix {
+	display: inline-block;
+	position: relative;
+	&:after {
+		position: absolute;
+		top: 50%;
+        transform: translateY(-50%);
+		right: 0.8em;
+	}
+}
+
+.hasSuffix.percent:after {
+    content: '%';
+}
+.hasSuffix.day:after {
+    content: '天';
+}
+.hasSuffix.pen:after {
+    content: '筆';
+}
+
+.hasPrefix {
+    display: inline-block;
+	position: relative;
+    &:before {
+		position: absolute;
+		top: 50%;
+        transform: translateY(-50%);
+		left: 0.8em;
+	}
+	input {
+		text-indent:1em;
+	}
+}
+
+.hasPrefix.money:before {
+    content: '$';
+}

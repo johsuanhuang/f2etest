@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>@ic/batch_prediction</title>
+    <g id="@ic/batch_prediction" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="batch_prediction-24px">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+            <path d="M18.4285714,3 L5.57142857,3 C4.15714286,3 3,4.15714286 3,5.57142857 L3,18.4285714 C3,19.8428571 4.15714286,21 5.57142857,21 L18.4285714,21 C19.8428571,21 21,19.8428571 21,18.4285714 L21,5.57142857 C21,4.15714286 19.8428571,3 18.4285714,3 Z" id="Shape" fill="#A2A6B8" fill-rule="nonzero"></path>
+            <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="13 18 11 18 11 16 13 16"></polygon>
+            <path d="M13.1428571,15 L10.8571429,15 C10.8571429,13.2352941 8,11.4705882 8,9.11764706 C8,6.84705882 9.79428571,5 12,5 C14.2057143,5 16,6.84705882 16,9.11764706 C16,11.4705882 13.1428571,13.2352941 13.1428571,15 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

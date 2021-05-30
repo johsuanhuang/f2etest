@@ -1,0 +1,22 @@
+// function
+@mixin clearfix() {
+	&::after {
+		display: block;
+		clear: both;
+		content: '';
+	}
+}
+
+%clearfix {
+	&::after {
+		display: block;
+		clear: both;
+		content: '';
+	}
+}
+
+@mixin ellipsis() {
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+}

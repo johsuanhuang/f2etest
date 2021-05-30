@@ -1,0 +1,41 @@
+html {
+	color: #000;
+	background: #fff;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	width: 100%;
+}
+.ellipsis {
+	@include ellipsis;
+}
+
+* {
+	box-sizing: border-box;
+}
+ol,
+ul {
+	list-style: none;
+}
+
+// layout
+html,
+body,
+#app {
+	position: relative;
+	height: 100%;
+}
+
+.layout-wrap {
+	position: relative;
+	margin: 0 auto;
+	width: 1000px;;
+	@include clearfix();
+}
+
+.clearfix {
+	@extend %clearfix;
+}
